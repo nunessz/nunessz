@@ -28,7 +28,3 @@ Meu objetivo é evoluir constantemente na área e construir uma carreira sólida
 ---
 
 > 💬 “A tecnologia move o mundo — e eu quero fazer parte dessa evolução.”
-
----
-
-![Linguagens e Tecnologias](https://raw.githubusercontent.com/seuusuario/seuusuario/main/seu_arquivo.png)
