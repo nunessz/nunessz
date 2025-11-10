@@ -1,6 +1,6 @@
 # 👨‍💻 Danilo Nunes
 
-🎓 Tenho 19 anos e atualmente curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no "SENAI "Roberto Mange".
+🎓 Tenho 19 anos e atualmente curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no "SENAI "Roberto Mange". 
 Sou apaixonado por **tecnologia** e **programação**, com foco em **desenvolvimento web**.  
 Gosto de transformar ideias em projetos reais e funcionais, buscando sempre aprimorar minhas habilidades e aprender novas ferramentas.
 Meu objetivo é evoluir constantemente na área e construir uma carreira sólida como **desenvolvedor full stack**, participando de grandes projetos e contribuindo com a comunidade.
