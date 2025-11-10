@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Danilo Nunes
 
-<!--
-**nunessz/nunessz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 19 anos e atualmente curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no "SENAI "Roberto Mange".
+Sou apaixonado por **tecnologia** e **programação**, com foco em **desenvolvimento web**.  
+Gosto de transformar ideias em projetos reais e funcionais, buscando sempre aprimorar minhas habilidades e aprender novas ferramentas.
+Meu objetivo é evoluir constantemente na área e construir uma carreira sólida como **desenvolvedor full stack**, participando de grandes projetos e contribuindo com a comunidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+---
+
+## 📫 Contato
+
+📧 **danilonf2006@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/danilo-nunes-051612288/  
+🐙 GitHub: https://github.com/nunessz
+
+---
+
+> 💬 “A tecnologia move o mundo — e eu quero fazer parte dessa evolução.”
+
+---
+
+![Linguagens e Tecnologias](https://raw.githubusercontent.com/seuusuario/seuusuario/main/seu_arquivo.png)
