@@ -25,8 +25,8 @@ Meu objetivo é evoluir constantemente na área e construir uma carreira sólida
 
 📧 **danilonf2006@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/danilo-nunes-051612288/  
-🐙 GitHub: https://github.com/nunessz
-👨‍💻 Portfólio: https://nunessz.github.io/Portifolio/
+🐙 GitHub: https://github.com/nunessz                                                                                                                                                                                                                                      
+👨‍💻 Portfólio: https://nunessz.github.io/Portfolio/
 
 
 ---
