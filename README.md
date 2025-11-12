@@ -1,4 +1,4 @@
-# 👨‍💻 Danilo Nunes
+# Danilo Nunes
 
 🎓 Tenho 19 anos e atualmente curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** no "SENAI "Roberto Mange". 
 Sou apaixonado por tecnologia e programação, com foco em desenvolvimento web.  
@@ -12,9 +12,11 @@ Meu objetivo é evoluir constantemente na área e construir uma carreira sólida
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ---
@@ -24,6 +26,8 @@ Meu objetivo é evoluir constantemente na área e construir uma carreira sólida
 📧 **danilonf2006@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/danilo-nunes-051612288/  
 🐙 GitHub: https://github.com/nunessz
+👨‍💻 Portfólio: https://nunessz.github.io/Portifolio/
+
 
 ---
 
